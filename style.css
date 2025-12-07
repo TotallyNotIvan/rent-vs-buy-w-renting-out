@@ -59,13 +59,8 @@ button {
     margin-top: 20px;
 }
 
-.dark-toggle {
-    text-align: right;
-    margin-bottom: 10px;
-    cursor: pointer;
-    font-size: 14px;
-    color: var(--accent);
-    text-decoration: underline;
+.toggle-advanced {
+    background: #888;
 }
 
 .results { margin-top: 25px; }
